@@ -1,0 +1,12 @@
+{
+  "name": "Hours",
+  "version": "0.0.1",
+  "description": "A web application for keeping track of hours at work",
+  "author": "Peter Tollnes Flem",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT"
+}
